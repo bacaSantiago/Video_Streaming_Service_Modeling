@@ -1,0 +1,244 @@
+Counter,ID,Title,Length,Genre,Rating,Voters,Type,Format,Episode,Episode Title,Season,Episode Rating,Episode Voters
+1,1,The Dark Knight,152,Action,9.0,2720935,Movie,IMAX,,,,,
+2,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,1,Pilot,1,9.0,39344
+3,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,2,Cat's in the Bag...,1,8.6,28689
+4,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,3,..And the Bag's in the River,1,8.7,27786
+5,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,4,Cancer Man,1,8.2,26784
+6,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,5,Gray Matter,1,8.3,26319
+7,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,6,Crazy Handful of Nothin',1,9.3,30957
+8,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,7,A No-Rough-Stuff-Type Deal,1,8.8,26818
+9,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,1,Seven Thirty-Seven,2,8.6,24339
+10,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,2,Grilled,2,9.3,27947
+11,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,3,Bit by a Dead Bee,2,8.3,23414
+12,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,4,Down,2,8.2,23527
+13,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,5,Breakage,2,8.3,22877
+14,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,6,Peekaboo,2,8.8,25143
+15,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,7,Negro y Azul,2,8.6,23013
+16,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,8,Better Call Saul,2,9.2,27538
+17,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,9,4 Days Out,2,9.1,26240
+18,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,10,Over,2,8.5,22466
+19,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,11,Mandala,2,8.9,23221
+20,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,12,Phoenix,2,9.3,26067
+21,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,13,ABQ,2,9.2,25709
+22,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,1,No Más,3,8.5,22253
+23,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,2,Caballo Sin Nombre,3,8.6,21724
+24,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,3,I.F.T.,3,8.4,21580
+25,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,4,Green Light,3,8.2,21743
+26,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,5,Más,3,8.5,21113
+27,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,6,Sunset,3,9.3,24765
+28,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,7,One Minute,3,9.6,30407
+29,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,8,I See You,3,8.7,21694
+30,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,9,Kafkaesque,3,8.4,21396
+31,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,10,Fly,3,7.9,37844
+32,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,11,Abiquiu,3,8.4,21285
+33,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,12,Half Measures,3,9.5,29546
+34,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,13,Full Measure,3,9.7,33098
+35,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,1,Box Cutter,4,9.2,26442
+36,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,2,Thirty-Eight Snub,4,8.2,21927
+37,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,3,Open House,4,8.0,22230
+38,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,4,Bullet Points,4,8.6,21093
+39,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,5,Shotgun,4,8.6,21135
+40,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,6,Cornered,4,8.4,21361
+41,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,7,Problem Dog,4,8.8,22078
+42,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,8,Hermanos,4,9.2,24852
+43,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,9,Bug,4,8.8,22386
+44,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,10,Salud,4,9.6,31480
+45,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,11,Crawl Space,4,9.7,36633
+46,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,12,End Times,4,9.5,28255
+47,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,13,Face Of,4,9.9,68280
+48,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,1,Live Free or Die,5,9.2,29753
+49,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,2,Madrigal,5,8.8,25859
+50,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,3,Hazard Pay,5,8.8,25277
+51,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,4,Fifty-One,5,8.8,25463
+52,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,5,Dead Freight,5,9.7,36911
+53,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,6,Buyout,5,9.0,25932
+54,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,7,Say My Name,5,9.5,33517
+55,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,8,Gliding Over All,5,9.6,33149
+56,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,9,Blood Money,5,9.4,31705
+57,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,10,Buried,5,9.2,28244
+58,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,11,Confessions,5,9.6,33968
+59,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,12,Rabid Dog,5,9.1,29497
+60,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,13,To'hajiilee,5,9.8,50032
+61,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,14,Ozymandias,5,10.0,197279
+62,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,15,Granite State,5,9.7,49125
+63,2,Breaking Bad,2976,Crime,9.5,2008162,Series,,16,Felina,5,9.9,129198
+64,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,1,Winter Is Coming,1,8.9,51552
+65,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,2,The Kingsroad,1,8.6,38958
+66,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,3,Lord Snow,1,8.5,36858
+67,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,4,Cripples; Bastards; and Broken Things,1,8.6,35060
+68,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,5,The Wolf and the Lion,1,9.0,36452
+69,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,6,A Golden Crown,1,9.1,36038
+70,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,7,You Win or You Die,1,9.1,36552
+71,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,8,The Pointy End,1,8.9,34211
+72,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,9,Baelor,1,9.6,47816
+73,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,10,Fire and Blood,1,9.4,41974
+74,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,1,The North Remembers,2,8.6,32622
+75,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,2,The Night Lands,2,8.4,30883
+76,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,3,What Is Dead May Never Die,2,8.7,30548
+77,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,4,Garden of Bones,2,8.6,29643
+78,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,5,The Ghost of Harrenhal,2,8.6,29783
+79,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,6,The Old Gods and the New,2,8.9,31034
+80,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,7,A Man Without Honor,2,8.8,30222
+81,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,8,The Prince of Winterfell,2,8.6,29864
+82,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,9,Blackwater,2,9.7,51285
+83,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,10,Valar Morghulis,2,9.3,36385
+84,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,1,Valar Dohaeris,3,8.6,31960
+85,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,2,Dark Wings; Dark Words,3,8.5,29418
+86,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,3,Walk of Punishment,3,8.7,29736
+87,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,4,And Now His Watch Is Ended,3,9.5,40066
+88,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,5,Kissed by Fire,3,8.9,30547
+89,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,6,The Climb,3,8.7,30161
+90,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,7,The Bear and the Maiden Fair,3,8.6,29259
+91,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,8,Second Sons,3,8.9,29953
+92,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,9,The Rains of Castamere,3,9.9,111467
+93,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,10,Mhysa,3,9.1,33597
+94,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,1,Two Swords,4,9.0,36851
+95,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,2,The Lion and the Rose,4,9.7,57371
+96,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,3,Breaker of Chains,4,8.7,31785
+97,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,4,Oathkeeper,4,8.7,30625
+98,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,5,First of His Name,4,8.6,29880
+99,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,6,The Laws of Gods and Men,4,9.7,55255
+100,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,7,Mockingbird,4,9.0,32947
+101,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,8,The Mountain and the Viper,4,9.7,57204
+102,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,9,The Watchers on the Wall,4,9.6,50020
+103,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,10,The Children,4,9.6,49039
+104,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,1,The Wars to Come,5,8.3,32272
+105,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,2,The House of Black and White,5,8.3,29126
+106,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,3,High Sparrow,5,8.4,28291
+107,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,4,Sons of the Harpy,5,8.5,28993
+108,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,5,Kill the Boy,5,8.5,29160
+109,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,6,Unbowed; Unbent; Unbroken,5,7.9,32592
+110,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,7,The Gift,5,8.8,31490
+111,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,8,Hardhome,5,9.8,104295
+112,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,9,The Dance of Dragons,5,9.4,46166
+113,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,10,Mother's Mercy,5,9.1,44929
+114,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,1,The Red Woman,6,8.4,41869
+115,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,2,Home,6,9.3,48871
+116,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,3,Oathbreaker,6,8.6,36071
+117,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,4,Book of the Stranger,6,9.0,38713
+118,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,5,The Door,6,9.7,74703
+119,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,6,Blood of My Blood,6,8.3,35661
+120,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,7,The Broken Man,6,8.5,34856
+121,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,8,No One,6,8.3,39052
+122,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,9,Battle of the Bastards,6,9.9,216703
+123,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,10,The Winds of Winter,6,9.9,153939
+124,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,1,Dragonstone,7,8.5,52816
+125,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,2,Stormborn,7,8.8,46245
+126,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,3,The Queen's Justice,7,9.1,48521
+127,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,4,The Spoils of War,7,9.7,91211
+128,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,5,Eastwatch,7,8.7,45972
+129,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,6,Beyond the Wall,7,9.0,66565
+130,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,7,The Dragon and the Wolf,7,9.4,66557
+131,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,1,Winterfell,8,7.6,134925
+132,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,2,A Knight of the Seven Kingdoms,8,7.9,133540
+133,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,3,The Long Night,8,7.5,219998
+134,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,4,The Last of the Starks,8,5.5,167908
+135,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,5,The Bells,8,6.0,195934
+136,3,Game of Thrones,4214,Fantasy,9.4,2212438,Series,,6,The Iron Throne,8,4.0,254523
+137,4,Ender's Game,114,Sci-Fi,6.6,247022,Movie,Digital,,,,,
+138,5,Interstellar,169,Sci-Fi,8.7,1913288,Movie,IMAX,,,,,
+139,6,On Golden Pond,109,Drama,7.6,33279,Movie,35 mm,,,,,
+140,7,Mamma Mia!,108,Musical,6.5,257440,Movie,Digital,,,,,
+141,8,The Great Gatsby,143,Drama,7.2,566350,Movie,35 mm,,,,,
+142,9,The Hangover Part II,102,Comedy,6.5,515293,Movie,Digital,,,,,
+244,10,Dune,156,Sci-Fi,8.0,680014,Movie,IMAX,,,,,
+144,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,1,Survival of the Fittes,1,8.0,2100
+145,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,2,Interactions,1,8.2,2000
+146,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,3,Natural Selection,1,8.8,2000
+147,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,4,Market Forces,1,8.3,1900
+148,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,5,Competition,1,8.4,1900
+149,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,6,The Invisible Hand,1,8.7,1900
+150,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,7,Catalysts,1,8.9,1900
+151,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,8,Reaction,1,8.7,1900
+152,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,9,The Uncertainty Principle,1,9.0,1900
+153,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,10,Persona,1,8.7,1900
+154,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,11,Group Therapy,1,9.2,1900
+155,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,12,Intervention,1,9.4,2100
+156,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,13,Nature vs. Nurture,1,9.4,2200
+157,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,1,Blueprints,2,8.4,1800
+158,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,2,Destructive Testing,2,8.4,1800
+159,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,3,Reinforcement,2,8.8,1800
+160,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,4,Shear Strength,2,8.9,1900
+161,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,5,First Steps,2,8.9,1800
+162,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,6,Growing Pains,2,8.6,1800
+163,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,7,Identity Crisis,2,9.3,1800
+164,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,8,Accomplices,2,8.5,1800
+165,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,9,Probable Cause,2,8.5,1800
+166,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,10,Gangland,2,9.2,1900
+167,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,11,Subtex,2,8.5,1800
+168,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,12,Opening Night,2,8.9,1800
+169,11,The Spectacular Spider-Man,610,Superheroes,8.3,17000,Series,,13,Final Curtain,2,9.4,2000
+170,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,1,Chapter 1: The Mandalorian,1,8.6,34000
+171,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,2,Chapter 2: The Child,1,8.5,30000
+172,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,3,Chapter 3: The Sin,1,8.9,30000
+173,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,4,Chapter 4: Sanctuary,1,7.7,28000
+174,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,5,Chapter 5: The Gunslinger,1,7.5,25000
+175,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,6,Chapter 6: The Prisoner,1,8.3,27000
+176,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,7,Chapter 7: The Reckoning,1,9.0,26000
+177,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,8,Chapter 8: Redemption,1,9.2,28000
+178,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,1,Chapter 9: The Marshal,2,8.8,28000
+179,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,2,Chapter 10: The Passenger,2,7.8,28000
+180,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,3,Chapter 11: The Heiress,2,8.7,24000
+181,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,4,Chapter 12: The Siege,2,8.3,22000
+182,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,5,Chapter 13: The Jedi,2,9.3,33000
+183,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,6,Chapter 14: The Tragedy,2,9.1,26000
+184,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,7,Chapter 15: The Believer,2,8.9,23000
+185,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,8,Chapter 16: The Rescue,2,9.8,60000
+186,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,1,Chapter 17: The Apostate,3,7.4,18000
+187,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,2,Chapter 18: The Mines of Mandalore,3,8.2,17000
+188,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,3,Chapter 19: The Convert,3,7.0,17000
+189,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,4,Chapter 20: The Foundling,3,7.7,14000
+190,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,5,Chapter 21: The Pirate,3,8.2,14000
+191,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,6,Chapter 22: Guns for Hire,3,6.4,19000
+192,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,7,Chapter 23: The Spies,3,8.8,15000
+193,12,The Mandalorian,1049,Fantasy,8.7,547000,Series,,8,Chapter 24: The Return,3,8.5,14000
+194,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,1,When You're Lost in the Darkness,1,9.1,107588
+195,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,2,Infected,1,9.1,98904
+196,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,3,Long; Long Time,1,8.0,219740
+197,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,4,Please Hold to My Hand,1,8.4,65887
+198,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,5,Endure and Survive,1,9.4,75170
+199,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,6,Kin,1,8.8,54378
+200,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,7,Left Behind,1,7.4,64120
+201,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,8,When We Are in Need,1,9.3,54290
+202,13,The Last of Us,517,Sci-Fi,8.8,419000,Series,,9,Look for the Light,1,9.0,40187
+203,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,1,Sleep of the Just,1,8.0,8953
+204,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,2,Imperfect Hosts,1,7.7,7655
+205,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,3,Dream a Little Dream of Me,1,7.9,7412
+206,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,4,A Hope in Hell,1,8.5,8165
+207,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,5,45131,1,8.4,9547
+208,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,6,The Sound of Her Wings,1,9.2,11379
+209,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,7,The Doll's House,1,6.9,6536
+210,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,8,Playing House,1,7.2,5930
+211,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,9,Collectors,1,7.5,5783
+212,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,10,Lost Hearts,1,7.6,6156
+213,14,The Sandman,544,Sci-Fi,7.7,158000,Series,,11,Dream of a Thousand Cats/Calliope,1,8.3,5372
+214,15,The Umbrella Academy,21632,Superheroes,7.9,258000,Series,,1,We Only See Each Other at Weddings and Funerals,1,7.7,6637
+215,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,2,Run Boy Run,1,7.7,5629
+216,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,3,Extra Ordinary,1,7.8,5209
+217,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,4,Man on the Moon,1,7..9,4943
+218,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,5,Number Five,1,8.1,4931
+219,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,6,The Day That Wasn't,1,8.3,4941
+220,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,7,The Day That Was,1,8.1,4666
+221,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,8,I Heard a Rumor,1,8.5,4919
+222,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,9,Changes,1,8.4,4728
+223,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,10,The White Violin,1,8.7,5681
+224,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,1,Right Back Where We Started,2,8.2,4549
+225,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,2,The Frankel Footage,2,8.0,4071
+226,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,3,The Swedish Job,2,8.2,4054
+227,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,4,The Majestic 12,2,8.0,3915
+228,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,5,Valhalla,2,8.1,3897
+229,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,6,A Light Supper,2,8.2,3832
+230,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,7,Öga for Öga,2,8.4,3973
+231,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,8,The Seven Stages,2,8.5,3934
+232,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,9,743,2,8.7,4124
+233,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,10,The End of Something,2,8.9,5201
+234,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,1,Meet the Family,3,7.7,3684
+235,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,2,World's Biggest Ball of Twine,3,6.9,3586
+236,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,3,Pocket Full of Lightning,3,7.7,2772
+237,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,4,Kugelblitz,3,7.6,2614
+238,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,5,Kindest Cut,3,7.4,2531
+239,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,6,Marigold,3,7.4,2107
+240,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,7,Auf Wiedersehen,3,7.7,2296
+241,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,8,Wedding at the End of the World,3,7.1,2603
+242,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,9,Seven Bells,3,7.7,2327
+243,15,The Umbrella Academy,1508,Superheroes,7.9,258000,Series,,10,Oblivion,3,7.3,2873
