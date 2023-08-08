@@ -1,7 +1,7 @@
 # C++ Video Streaming Service Modeling
 
 ## Introduction
-This C++ program simulates a simple video streaming service where users can interact with movies and series. It includes classes for Video, Movie, Series, Episode, and Catalog. The Video class is an abstract class with common attributes and methods for movies and series. The Movie and Series classes inherit from the Video class, and Series class can contain multiple Episode objects.
+This C++ program models a video modeling for a streaming service. The catalog contains two types of videos: movies and series. Each video has an ID, a name, a length, a genre, and a rating. Movies have an additional attribute called "format," while series have episodes, each with a title, season, and episode rating.
 
 ## Class Description
 
